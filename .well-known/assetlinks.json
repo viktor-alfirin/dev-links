@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "dev.vaeltaja.wordatlas",
+      "sha256_cert_fingerprints": [
+        "00:6D:0B:F9:01:C5:01:6F:65:7D:71:2E:20:45:EE:C6:12:3D:8F:C7:11:A1:A4:DC:7A:80:4A:DF:B2:A3:15:20"
+      ]
+    }
+  }
+]
