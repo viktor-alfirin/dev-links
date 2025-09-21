@@ -5,6 +5,7 @@
       "namespace": "android_app",
       "package_name": "dev.vaeltaja.wordatlas",
       "sha256_cert_fingerprints": [
+        "59:C3:EC:71:36:64:60:C7:30:69:22:8C:86:86:B9:E0:4F:0C:5F:B5:A8:83:A7:44:F8:F3:42:D9:13:50:E5:16",    
         "00:6D:0B:F9:01:C5:01:6F:65:7D:71:2E:20:45:EE:C6:12:3D:8F:C7:11:A1:A4:DC:7A:80:4A:DF:B2:A3:15:20"
       ]
     }
